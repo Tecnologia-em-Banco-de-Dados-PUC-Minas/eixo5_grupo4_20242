@@ -5,7 +5,7 @@ Arquitetura de Dados em Nuvem
 `BANCO DE DADOS`
 `2024/ 5 SEMESTRE`
 
-Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, abordando aspectos como a coleta, armazenamento, processamento em lotes e em tempo real, além da disponibilização de dados conforme as necessidades de uma área de negócio específica. A iniciativa também levará em consideração elementos críticos de governança de dados, além de questões éticas e humanísticas associadas à transformação digital. No momento, o grupo ainda está avaliando e definindo os detalhes específicos do projeto a ser desenvolvido.
+Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, abordando aspectos como a coleta, armazenamento, processamento em lotes e em tempo real, além da disponibilização de dados conforme as necessidades de uma área de negócio específica. A iniciativa também levará em consideração elementos críticos de governança de dados, questões éticas e humanísticas associadas à transformação digital. No momento, o grupo ainda está avaliando e definindo os detalhes específicos do projeto a ser desenvolvido.
 
 ## ⭐ Integrantes
 * Fernanda Oliveira
