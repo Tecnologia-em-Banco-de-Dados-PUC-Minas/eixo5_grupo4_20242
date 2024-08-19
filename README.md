@@ -1,13 +1,13 @@
-# Eixo-5
+# 💻 Eixo-5
 Arquitetura de Dados em Nuvem
 
-# TÍTULO DO PROJETO
-`CURSO`
-`ANO/SEMESTRE`
+# 📝 TÍTULO DO PROJETO
+`BANCO DE DADOS`
+`2024/ 5 SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, abordando aspectos como a coleta, armazenamento, processamento em lotes e em tempo real, além da disponibilização de dados conforme as necessidades de uma área de negócio específica. A iniciativa também levará em consideração elementos críticos de governança de dados, além de questões éticas e humanísticas associadas à transformação digital. No momento, o grupo ainda está avaliando e definindo os detalhes específicos do projeto a ser desenvolvido.
 
-## Integrantes
+## ⭐ Integrantes
 * Fernanda Oliveira
 * Luine de Paula Freitas
 * Marilda Batista de Souza Marcelino
@@ -15,10 +15,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Maycon Gomes Silva Maia
 * Paulo Samuel Barbosa Saraiva Ferreira
 
-## Orientador
+## 📖 Orientador
 * Cristiano Geraldo Teixeira Silva
 
-# Documentação
+# 📚  Documentação
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
