@@ -1,11 +1,13 @@
 # 💻 Eixo-5
 Arquitetura de Dados em Nuvem
 
+Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, abordando aspectos como a coleta, armazenamento, processamento em lotes e em tempo real, além da disponibilização de dados conforme as necessidades de uma área de negócio específica. A iniciativa também levará em consideração elementos críticos de governança de dados, questões éticas e humanísticas associadas à transformação digital.
+
 # 📝 TÍTULO DO PROJETO (AVALIANDO)
 `BANCO DE DADOS`
 `2024|5º SEMESTRE`
 
-Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, abordando aspectos como a coleta, armazenamento, processamento em lotes e em tempo real, além da disponibilização de dados conforme as necessidades de uma área de negócio específica. A iniciativa também levará em consideração elementos críticos de governança de dados, questões éticas e humanísticas associadas à transformação digital. No momento, o grupo ainda está avaliando e definindo os detalhes específicos do projeto a ser desenvolvido.
+ No momento, o grupo ainda está avaliando e definindo os detalhes específicos do projeto a ser desenvolvido.
 
 ## ⭐ Integrantes
 * Fernanda Oliveira
