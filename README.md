@@ -1,7 +1,7 @@
 # 💻 Eixo-5
 Arquitetura de Dados em Nuvem
 
-# 📝 TÍTULO DO PROJETO
+# 📝 TÍTULO DO PROJETO (AVALIANDO)
 `BANCO DE DADOS`
 `2024|5º SEMESTRE`
 
