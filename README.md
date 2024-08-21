@@ -5,7 +5,7 @@ Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, ab
 
 # 📝 TÍTULO DO PROJETO
 `BANCO DE DADOS`
-`2024|5º SEMESTRE`
+`2024|2º SEMESTRE`
 
  No momento, o grupo ainda está avaliando e definindo os detalhes específicos do projeto a ser desenvolvido.
 
