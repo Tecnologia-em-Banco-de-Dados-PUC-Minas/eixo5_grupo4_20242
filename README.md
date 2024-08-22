@@ -1,13 +1,13 @@
 # 💻 Eixo-5
 Arquitetura de Dados em Nuvem
 
-Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, abordando aspectos como a coleta, armazenamento, processamento em lotes e em tempo real e disponibilização de dados conforme as necessidades de uma área de negócio específica. A iniciativa também levará em consideração elementos críticos de governança de dados, questões éticas e humanísticas associadas à transformação digital.
+Este projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, abordando a coleta, armazenamento, processamento em lotes e em tempo real, e disponibilização de dados, com foco na análise dos dados de desemprego no Brasil. A iniciativa também levará em consideração elementos críticos de governança de dados, questões éticas e humanísticas associadas à transformação digital.
 
-# 📝 TÍTULO DO PROJETO
+# 📝 ARQUITETURA DE DADOS EM NUVEM PARA ANÁLISE DE DESEMPREGO NO BRASIL
 `BANCO DE DADOS`
 `2024|2º SEMESTRE`
 
- No momento, o grupo ainda está avaliando e definindo os detalhes específicos do projeto a ser desenvolvido.
+O presente projeto tem como objetivo desenvolver uma arquitetura de dados em nuvem, voltada para a análise de dados de desemprego no Brasil, utilizando o Cadastro Geral de Empregados e Desempregados (CAGED) como fonte de dados.
 
 ## ⭐ Integrantes
 * Fernanda Oliveira
