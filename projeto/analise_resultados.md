@@ -1,0 +1,3 @@
+# Etapa 5 - ANÁLISE DOS RESULTADOS
+
+Após a aplicação das diferentes abordagens e algoritmos, a equipe deve focar em obter as métricas das aplicações, obtendo os resultados de acurácia, taxa de erros, a matriz de confusão das saídas das predições dos algoritmos comparando com a classes reais do conjunto de dados. Interpretando os resultados de cada algoritmo com os diferentes parâmetros e variáveis de entrada para o treinamento, procurando extrair informações de quais variáveis impactam em melhores preditores e quais parâmetros são ideias para este conjunto de dados e problema, quais os algoritmos performaram melhor, resultados e características interessantes identificadas na exploração dos dados e nos resultados dos modelos de aprendizagem de máquina.
