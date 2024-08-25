@@ -11,6 +11,7 @@ Para enfrentar esses desafios, o projeto se baseia em informações demográfica
 - **Estado civil:** Avaliação da estrutura familiar e seu impacto.
 - **Nível de escolaridade:** Compreender a relação entre escolaridade e idade.
 - **Renda:** Uma análise da relação entre envelhecimento e status socioeconômico.
+  
 ***Fonte dos Dados:*** *Instituto Brasileiro de Geografia e Estatística (IBGE) - www.ibge.gov.br.*
 
 ## Objetivos  
