@@ -7,7 +7,7 @@ Segundo dados do censo de 2022 do IBGE, o Brasil enfrenta um envelhecimento acel
 Para enfrentar esses desafios, o projeto se baseia em informações demográficas do IBGE sobre o envelhecimento da população brasileira. A seleção destes dados justifica-se pela sua relevância e amplitude, permitindo-nos analisar os efeitos do envelhecimento em diferentes áreas. A qualidade e acessibilidade dos dados do IBGE contribue para a viabilidade do projeto e permitem análises preditivas e tomadas de decisão informadas. Variáveis que serão incluídas na análise:
 - **Idade:** Compreender a distribuição etária da população.
 - **Género:** Análise da composição de género e seus efeitos.
-- **Cidade/Universidade:** Identificando diferenças regionais no envelhecimento.
+- **Cidade/UF:** Identificando diferenças regionais no envelhecimento.
 - **Estado civil:** Avaliação da estrutura familiar e seu impacto.
 - **Nível de escolaridade:** Compreender a relação entre escolaridade e idade.
 - **Renda:** Uma análise da relação entre envelhecimento e status socioeconômico.
