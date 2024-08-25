@@ -1,9 +1,9 @@
-# 💻 Eixo-5
+# 📝 Eixo-5
 Arquitetura de Dados em Nuvem
 
 Desenvolver uma arquitetura de dados em nuvem, abordando a coleta, armazenamento, processamento em lotes e em tempo real, e disponibilização de dados, com foco na análise dos dados de desemprego no Brasil. A iniciativa também levará em consideração elementos críticos de governança de dados, questões éticas e humanísticas associadas à transformação digital.
 
-# 📝 ARQUITETURA DE DADOS EM NUVEM PARA ANÁLISE DO ENVELHECIMENTO POPULACIONAL NO BRASIL
+# 💻 ARQUITETURA DE DADOS EM NUVEM PARA ANÁLISE DO ENVELHECIMENTO POPULACIONAL NO BRASIL
 `BANCO DE DADOS`
 `2024|2º SEMESTRE`
 
