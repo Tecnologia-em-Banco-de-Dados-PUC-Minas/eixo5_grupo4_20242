@@ -3,6 +3,8 @@
 ## Problema  
 Segundo dados do censo de 2022 do IBGE, o Brasil enfrenta um envelhecimento acelerado de sua população. A idade média da população aumentou de 29 anos em 2010 para 35 anos em 2022, marcando o maior aumento no envelhecimento desde 1940, quando foi registado o censo. Este envelhecimento acelerado da população coloca desafios significativos em áreas como a saúde, a segurança social e o planeamento urbano. A proporção crescente de mulheres, que representam agora 51,5% da população, também requer atenção especial no desenvolvimento de políticas nacionais e estratégias de mercado. (O GLOBO, 2024)
 
+![População Brasileira Censo](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo4_20242/blob/main/projeto/popula%C3%A7%C3%A3o_brasileira_censo.png)
+
 ## Contexto  
 Para enfrentar esses desafios, o projeto se baseia em informações demográficas do IBGE sobre o envelhecimento da população brasileira. A seleção destes dados justifica-se pela sua relevância e amplitude, permitindo-nos analisar os efeitos do envelhecimento em diferentes áreas. A qualidade e acessibilidade dos dados do IBGE contribue para a viabilidade do projeto e permitem análises preditivas e tomadas de decisão informadas. Variáveis que serão incluídas na análise:
 - **Idade:** Compreender a distribuição etária da população.
