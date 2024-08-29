@@ -14,7 +14,7 @@ Para enfrentar esses desafios, o projeto se baseia em informações demográfica
 - **Nível de escolaridade:** Compreender a relação entre escolaridade e idade.
 - **Renda:** Uma análise da relação entre envelhecimento e status socioeconômico.
   
-***Fonte dos Dados:*** *Instituto Brasileiro de Geografia e Estatística (IBGE) - www.ibge.gov.br.*
+***Fonte dos Dados:*** *Instituto Brasileiro de Geografia e Estatística (IBGE) - https://basedosdados.org/dataset/d30222ad-7a5c-4778-a1ec-f0785371d1ca?table=2440d076-8934-471f-8cbe-51faae387c66*
 
 ## Objetivos  
 O objetivo principal deste projeto é desenvolver uma arquitetura de dados em nuvem que possa coletar, armazenar, processar e disponibilizar dados demográficos do IBGE de maneira eficiente e escalável. A solução proposta visa fornecer informações sobre as tendências de envelhecimento e o aumento da proporção de mulheres no Brasil. Este projeto tem como compromisso garantir a boa gestão dos dados e o cumprimento dos princípios éticos, contribuindo assim para o desenvolvimento profissional dos participantes e da sociedade como um todo.
