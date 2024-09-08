@@ -77,8 +77,7 @@ O Modelo Star Schema é caracterizado por uma tabela central de fatos, que armaz
 
 Esta estrutura facilita a análise preditiva e a identificação de padrões demográficos, ajudando a projetar os impactos do envelhecimento em diversas áreas, como saúde, previdência social, e planejamento urbano.
 
-![Modelagem de Dados] (https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo4_20242/blob/main/projeto/Modelagem_DBDesign.jpg).
-
+![Modelagem de Dados](https://github.com/Tecnologia-em-Banco-de-Dados-PUC-Minas/eixo5_grupo4_20242/blob/main/projeto/Modelagem_DBDesign.jpg)
 
 A dicionarização dos dados envolve a descrição de cada coluna nas tabelas, incluindo seu significado e tipo de dado. Isso ajuda a definir a natureza de cada campo e como ele será utilizado. Abaixo está a dicionarização dos dados para o Modelo Star Schema que será implementando:  
 
