@@ -19,6 +19,6 @@ Para enfrentar esses desafios, o projeto se baseia em informações demográfica
 ## Objetivos  
 O objetivo principal deste projeto é desenvolver uma arquitetura de dados em nuvem que possa coletar, armazenar, processar e disponibilizar dados demográficos do IBGE de maneira eficiente e escalável. A solução proposta visa fornecer informações sobre as tendências de envelhecimento e o aumento da proporção de mulheres no Brasil. Este projeto tem como compromisso garantir a boa gestão dos dados e o cumprimento dos princípios éticos, contribuindo assim para o desenvolvimento profissional dos participantes e da sociedade como um todo.
 
-## Considerações Finais  
+## Considerações
 Este projeto equilibra as necessidades do negócio com uma solução tecnológica robusta, sustentável e segura, promovendo o uso responsável dos dados e a melhoria contínua através da iteração e otimização ao longo do desenvolvimento.
 
