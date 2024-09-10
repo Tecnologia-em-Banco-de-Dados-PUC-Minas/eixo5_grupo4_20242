@@ -59,7 +59,7 @@ Foi adotado o Modelo Star Schema para estruturar o banco de dados, que permitir�
 
 O Modelo Star Schema é caracterizado por uma tabela central de fatos, que armazena as principais métricas e medidas de interesse, e tabelas de dimensão que oferecem o contexto necessário para análise. Este modelo simplifica as consultas analíticas e facilita a compreensão dos dados, permitindo uma análise mais eficiente.
 
-## 7.2. Estrutura do Modelo  
+#### 7.2. Estrutura do Modelo  
 
 - **Tabela Fato "População"**: Armazena as métricas relacionadas ao estudo do envelhecimento da população, como a quantidade total de pessoas, média de idade, proporção de idosos, e indicadores socioeconômicos por região.  
 - **Dimensão "Idade"**: Contém informações sobre a distribuição etária, incluindo intervalos de idade ou faixas etárias (ex: 0-14 anos, 15-64 anos, 65+ anos).  
