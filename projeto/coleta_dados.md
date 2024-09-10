@@ -51,19 +51,15 @@ Implementar um sistema de monitoramento que:
 - **Avalie o Progresso**: Possibilite a avaliação contínua da eficácia das políticas e ações implementadas.  
 - **Realize Ajustes Necessários**: Em resposta a dados novos ou mudanças nas condições sociais, garantindo que as estratégias se mantenham alinhadas com as necessidades da população.  
 
-### 7. Diagnóstico da Situação-Problema  
-
-Com os dados obtidos e analisados, podemos diagnosticar os principais desafios associados ao envelhecimento acelerado da população brasileira, para consolidar dados, proporcionar análises detalhadas e oferecer suporte à formulação de políticas. O objetivo é aprimorar as estratégias de enfrentamento do envelhecimento, garantindo que sejam duradouros e eficazes nos sistemas sociais.   
-
-### Modelagem de Dados: Modelo Star Schema  
+### 7. Modelagem de Dados: Modelo Star Schema  
 
 Foi adotado o Modelo Star Schema para estruturar o banco de dados, que permitirá análises demográficas e socioeconômicas sobre o envelhecimento da população brasileira. A ferramenta utilizada para a modelagem dos dados foi o DBDesigner.  
 
-#### 1. Aplicação do Modelo Star Schema  
+##### 7.1. Aplicação do Modelo Star Schema  
 
 O Modelo Star Schema é caracterizado por uma tabela central de fatos, que armazena as principais métricas e medidas de interesse, e tabelas de dimensão que oferecem o contexto necessário para análise. Este modelo simplifica as consultas analíticas e facilita a compreensão dos dados, permitindo uma análise mais eficiente.
 
-## 2. Estrutura do Modelo  
+## 7.2. Estrutura do Modelo  
 
 - **Tabela Fato "População"**: Armazena as métricas relacionadas ao estudo do envelhecimento da população, como a quantidade total de pessoas, média de idade, proporção de idosos, e indicadores socioeconômicos por região.  
 - **Dimensão "Idade"**: Contém informações sobre a distribuição etária, incluindo intervalos de idade ou faixas etárias (ex: 0-14 anos, 15-64 anos, 65+ anos).  
@@ -73,7 +69,7 @@ O Modelo Star Schema é caracterizado por uma tabela central de fatos, que armaz
 - **Dimensão "Escolaridade"**: Oferece dados sobre o nível de escolaridade (ensino fundamental, médio, superior) em relação à faixa etária, para avaliar o impacto da educação no envelhecimento.  
 - **Dimensão "Renda"**: Registra a distribuição de renda entre diferentes grupos etários, possibilitando a análise da relação entre envelhecimento e status socioeconômico.  
 
-### 3. Visualização  
+### 8. Visualização  
 
 Esta estrutura facilita a análise preditiva e a identificação de padrões demográficos, ajudando a projetar os impactos do envelhecimento em diversas áreas, como saúde, previdência social, e planejamento urbano.
 
@@ -148,7 +144,7 @@ A dicionarização dos dados envolve a descrição de cada coluna nas tabelas, i
 - **VARCHAR(x)**: Texto variável, onde "x" indica o número máximo de caracteres. Usado para armazenar descrições e nomes.  
 - **CHAR(2)**: Texto de tamanho fixo com 2 caracteres, usado para armazenar a sigla da unidade federativa (UF).
 
-## 7. Arquitetura  
+## 9. Arquitetura  
 
 A estrutura proposta para a análise do envelhecimento da população brasileira e suas implicações sociais é composta de várias etapas e tecnologias desenvolvidas para garantir uma integração e análise eficaz dos dados demográficos.  
 
