@@ -150,7 +150,7 @@ A dicionarização dos dados envolve a descrição de cada coluna nas tabelas, i
 
 ## 7. Arquitetura  
 
-A arquitetura proposta para a análise do envelhecimento da população brasileira e suas implicações sociais é estruturada em várias etapas e tecnologias projetadas para garantir uma integração eficaz e uma análise detalhada dos dados demográficos.  
+A estrutura proposta para a análise do envelhecimento da população brasileira e suas implicações sociais é composta de várias etapas e tecnologias desenvolvidas para garantir uma integração e análise eficaz dos dados demográficos.  
 
 ### Recebimento e Estruturação dos Dados  
 
@@ -162,15 +162,30 @@ Para aumentar a escalabilidade e a acessibilidade dos dados, o banco de dados My
 
 ### Processamento de Dados e Camadas de Análise  
 
-Adotaremos uma arquitetura de dados em camadas, utilizando uma estrutura de processamento que inclui:  
+A arquitetura de dados em camadas será nossa escolha para otimizar o gerenciamento e o processamento de dados, e o Databricks será um recurso adicional. O Databricks será essencial para cada uma das camadas da arquitetura devido à sua capacidade de processar grandes quantidades de dados e suas ferramentas analíticas sofisticadas. A estrutura sugerida é composta das seguintes camadas: 
 
-- **Camada de Bronze**: Representa a entrada inicial dos dados, armazenando-os em sua forma bruta para garantir a integridade e a rastreabilidade das informações.  
-- **Camada de Silver**: Nesta camada, os dados passarão por processos de limpeza e transformação para que fiquem prontos para análises avançadas, incluindo o mapeamento e a análise de variáveis como idade, gênero e renda.  
-- **Camada de Gold**: A camada final onde os dados refinados serão utilizados para gerar insights valiosos e visões agregadas, focando nas tendências de envelhecimento e suas implicações sociais.  
+- **Camada de Bronze**: Os dados serão armazenados em sua forma bruta nesta camada para garantir a rastreabilidade e a integridade. Para coletar dados brutos de várias fontes e armazená-los em formato Delta Lake, utilizaremos o 
+  Databricks. Aproveitando a consistência e o versionamento do Delta Lake, isso garantirá que os dados sejam seguros e fáceis de acessar e processar.
+- **Camada de Silver**:Os dados desta camada serão limpos e modificados para que possam ser preparados para análises mais complexas. O Databricks será fundamental para o desenvolvimento e execução das pipelines de ETL (Extração, 
+  Transformação e Carga) com o uso de seus notebooks interativos. Usando o Apache Spark, aplicaremos as operações de limpeza, normalização e enriquecimento necessárias para a camada de ouro para transformar dados brutos em dados limpos e 
+  estruturados.
+- **Camada de Gold**: Os dados refinados da camada de gold serão utilizados para realizar análises detalhadas e obter insights. Usando a capacidade de processamento distribuída do Spark MLlib, o Databricks permitirá a realização de 
+  análises complexas e a criação de modelos de machine learning. A integração do Databricks com ferramenta de BI como Power BI permite visualizar e compartilhar os insights obtidos em dashboards e relatórios interativos.
+
+  ### Utilização do Databricks
+
+- **Importação de Dados**: Usar o Databricks para ingerir dados brutos de diversas fontes e armazená-los em formato Delta Lake para garantir a integridade e a eficiência no acesso e processamento.
+- **Pipelines ETL**: Desenvolver e executar pipelines de ETL usando notebooks do Databricks para transformar dados brutos em dados limpos e estruturados na camada de Silver.
+- **Análise e Machine Learning**: Utilizar a capacidade de processamento distribuído do Databricks para realizar análises complexas e criar modelos de machine learning na camada de Gold.
+- **Visualização e Relatórios**: Integrar o Databricks com ferramentas de visualização como Power BI ou Tableau para criar dashboards e relatórios interativos baseados nos dados processados.
+
+### Monitoramento e Manutenção
+
+O Databricks também facilitará o monitoramento e a manutenção contínua dos pipelines de dados. Utilizaremos as ferramentas de monitoramento integradas do Databricks para acompanhar o desempenho dos jobs e garantir que os processos de ETL e análise estejam funcionando conforme esperado. Alertas e relatórios de status serão configurados para identificar e resolver rapidamente qualquer problema que possa surgir.
 
 ### Conexão com Ferramentas de Visualização  
 
-Para a visualização e análise dos dados processados, utilizaremos o Power BI. Esta ferramenta permitirá a criação de dashboards e relatórios interativos, proporcionando aos gestores e policymakers uma visão em tempo real das tendências demográficas, identificação de áreas críticas e apoio na tomada de decisões estratégicas para lidar com o envelhecimento da população.  
+Para a visualização e análise dos dados processados, utilizaremos o Power BI. Esta ferramenta permitirá a criação de dashboards e relatórios interativos, proporcionando aos usuários uma visão em tempo real das tendências demográficas, identificação de áreas críticas e apoio na tomada de decisões estratégicas para lidar com o envelhecimento da população.  
 
 ### Governança dos Dados e Compliance  
 
