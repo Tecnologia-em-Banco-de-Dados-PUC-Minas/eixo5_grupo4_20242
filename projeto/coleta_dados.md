@@ -150,7 +150,7 @@ A estrutura proposta para a análise do envelhecimento da população brasileira
 
 ### Recebimento e Estruturação dos Dados  
 
-O projeto começará com a coleta dos dados demográficos a partir do censo de 1950 do IBGE, acessando as informações disponibilizadas na plataforma do Base dos Dados. Os dados serão coletados em diferentes formatos, incluindo tabelas e relatórios gerados pelo IBGE. Para garantir uma estruturação adequada e facilitar a manipulação e análise, optaremos por criar um banco de dados no MySQL. Essa escolha é devido à robustez e confiabilidade do MySQL para o armazenamento e gerenciamento de conjuntos de dados complexos e variados.  
+O projeto começará com a coleta dos dados demográficos a partir do censo de 1991 do IBGE, acessando as informações disponibilizadas na plataforma do Base dos Dados. Os dados serão coletados em diferentes formatos, incluindo tabelas e relatórios gerados pelo IBGE. Para garantir uma estruturação adequada e facilitar a manipulação e análise, optaremos por criar um banco de dados no MySQL. Essa escolha é devido à robustez e confiabilidade do MySQL para o armazenamento e gerenciamento de conjuntos de dados complexos e variados.  
 
 ### Integração com a Nuvem  
 
