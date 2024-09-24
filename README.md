@@ -30,3 +30,19 @@ O presente projeto tem como objetivo desenvolver uma arquitetura de dados em nuv
 | ETAPA 4        |[Aprendizagem de Máquina](projeto/aprendizado_maquina_rev.md)|
 | ETAPA 5        |[Análise dos Resultados](projeto/analise_resultados.md) |
 | ETAPA 6        |[Otimização](projeto/Otimizacao.md) |
+
+
+## ❓ Perguntas sobre o projeto
+
+1. *Qual o crescimento populacional de uma cidade ou região específica ao longo dos anos?*
+   - Aprendizado de Máquina: Regressão Linear (para prever o crescimento populacional futuro com base nos dados anteriores).
+2. *Quais fatores (idade, sexo, cor/raça, escolaridade, etc.) mais influenciam a renda média de uma população?*
+   - Aprendizado de Máquina: Regressão Multivariada ou Árvores de Decisão.
+3. *Como o acesso a serviços públicos (água, esgoto, etc.) varia entre grupos raciais ou regiões?*
+   - Aprendizado de Máquina: Análise de Clusters (para agrupar municípios com base em níveis de acesso).
+4. *É possível prever a migração interna de uma população em função de características socioeconômicas?*
+   - Aprendizado de Máquina: Classificação ou Regressão Logística.
+5. *Quais variáveis estão mais fortemente correlacionadas com a taxa de urbanização em diferentes regiões?*
+   - Aprendizado de Máquina: Análise de Componentes Principais (PCA) para redução de dimensionalidade.
+6. *Como o perfil demográfico influencia a demanda por serviços de saúde?*
+   - Aprendizado de Máquina: Modelos de Classificação (SVM, KNN) para categorizar regiões com maior necessidade de serviços.
