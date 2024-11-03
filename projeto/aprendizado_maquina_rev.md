@@ -14,4 +14,4 @@ A equipe está comprometida em documentar todos os experimentos realizados, incl
 
 Link:https://colab.research.google.com/drive/1Hohuoru6CKcRYpj0NDn2gYQUz-TvAocf?authuser=1#scrollTo=MXcr8AWRGgZ9
 
-o testes estão na ultima linha, começamos com centro de 2010 e 2022, usamos regressão linear para começar.
+Os testes estão na ultima linha, começamos com centro de 2010 e 2022, usamos regressão linear para começar, O objetivo é comparar o desempenho de cada modelo aplicado ao problema em questão, buscando identificar aquele que proporciona os melhores resultados e insights. A equipe documentará todos os experimentos realizados, incluindo detalhes sobre os algoritmos utilizados, as métricas de avaliação e as análises dos resultados obtidos. Esta documentação será fundamental para entender as decisões tomadas durante o processo e para embasar futuras melhorias no modelo.
