@@ -14,4 +14,4 @@ A equipe está comprometida em documentar todos os experimentos realizados, incl
 
 Link:https://colab.research.google.com/drive/1Hohuoru6CKcRYpj0NDn2gYQUz-TvAocf?authuser=1#scrollTo=MXcr8AWRGgZ9
 
-o testes esta na ultima linha, começamos com centro de 2010 e 2022, usamos regressão linear para começar.
+o testes estão na ultima linha, começamos com centro de 2010 e 2022, usamos regressão linear para começar.
