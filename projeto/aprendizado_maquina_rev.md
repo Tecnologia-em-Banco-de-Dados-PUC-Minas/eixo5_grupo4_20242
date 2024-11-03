@@ -1,17 +1,22 @@
-# Etapa 4 - APRENDIZAGEM DE MÁQUINA
+# **Etapa 4 - APRENDIZAGEM DE MÁQUINA**
 
-Uma vez selecionadas as ferramentas e preparados os dados, agora é o momento de aplicar diferentes abordagens de aprendizado de máquina.
+## **Introdução**
+Uma vez selecionadas as ferramentas e preparados os dados, chegamos ao momento de aplicar diferentes abordagens de aprendizado de máquina.
 
-A equipe deve realizar diferentes experimentos com mais de um algoritmo dessas abordagens para obter diferentes resultados e compará-los a fim de identificar o mais performático para o problema, que traga maior conhecimento. Esses experimentos devem ser apresentados e discutidos na documentação do projeto.
+## **Objetivos da Análise**
+A equipe deve realizar diversos experimentos com mais de um algoritmo de aprendizado de máquina, com o intuito de obter resultados variados. Esses resultados serão comparados para identificar o modelo que melhor se adequa ao problema em questão, trazendo maior conhecimento e insights.
 
+## **Fase de Teste**
+Atualmente, estamos na fase de teste, onde aplicamos diferentes abordagens de aprendizado de máquina utilizando dados sobre a região Centro-Oeste, referentes aos anos de 2010 e 2022. Nesta análise, estamos explorando informações sobre raça e idade de alfabetizados e não alfabetizados.
 
-
-Atualmente, estamos na fase de teste, onde aplicamos diferentes abordagens de aprendizado de máquina utilizando dados sobre a região Centro-Oeste referentes aos anos de 2010 e 2022. Nessa análise, estamos explorando informações sobre a raça e a idade de alfabetizados e não alfabetizados.
-
+## **Análises Descritivas**
 Neste momento, estamos realizando análises descritivas dos dados de 2010 e planejamos realizar análises semelhantes para os anos de 2022 e 2000. O uso de técnicas de aprendizado de máquina nos permitirá testar diferentes modelos e avaliar como eles se comportam em relação aos dados disponíveis.
 
-A equipe está comprometida em documentar todos os experimentos realizados, incluindo os algoritmos utilizados e os resultados obtidos, para garantir uma compreensão clara das decisões tomadas e dos insights adquiridos ao longo do processo.
+## **Documentação e Resultados**
+A equipe está comprometida em documentar todos os experimentos realizados, incluindo os algoritmos utilizados e os resultados obtidos. Essa documentação será fundamental para garantir uma compreensão clara das decisões tomadas e dos insights adquiridos ao longo do processo.
 
-Link:https://colab.research.google.com/drive/1Hohuoru6CKcRYpj0NDn2gYQUz-TvAocf?authuser=1#scrollTo=MXcr8AWRGgZ9
+## **Links e Referências**
+Para mais detalhes sobre os testes realizados, acesse o seguinte link: [Resultados dos Testes](https://colab.research.google.com/drive/1Hohuoru6CKcRYpj0NDn2gYQUz-TvAocf?authuser=1#scrollTo=MXcr8AWRGgZ9)
 
-Os testes estão na ultima linha, começamos com centro de 2010 e 2022, usamos regressão linear para começar, O objetivo é comparar o desempenho de cada modelo aplicado ao problema em questão, buscando identificar aquele que proporciona os melhores resultados e insights. A equipe documentará todos os experimentos realizados, incluindo detalhes sobre os algoritmos utilizados, as métricas de avaliação e as análises dos resultados obtidos. Esta documentação será fundamental para entender as decisões tomadas durante o processo e para embasar futuras melhorias no modelo.
+Os testes estão na última linha, começamos com os dados de 2010 e 2022, utilizando regressão linear para iniciar nossa análise. O objetivo é comparar o desempenho de cada modelo aplicado ao problema em questão, buscando identificar aquele que proporciona os melhores resultados e insights.
+
