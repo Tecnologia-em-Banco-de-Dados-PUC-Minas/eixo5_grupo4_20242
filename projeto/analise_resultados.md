@@ -36,7 +36,7 @@ Após a aplicação de diferentes abordagens para resolver o problema de classif
 A **Árvore de Decisão** se mostrou eficiente para o conjunto de dados analisado, permitindo não apenas uma classificação precisa, mas também o entendimento das variáveis mais relevantes para o problema. As configurações ideais para o modelo foram alcançadas com ajustes nos parâmetros, resultando em predições consistentes e interpretáveis. Esses resultados destacam a importância de explorar os dados e ajustar os modelos para extrair insights valiosos e melhorar a 
 performance.  
 
-## **Link para o Google Colab**  
+## **Link para o trabalho**  
 Google Colab clicando [aqui](https://colab.research.google.com/drive/1sTAxf5Ix5FmJ5TMNNsyFu8XbaGg6jOd9?authuser=1#scrollTo=NFHRVPkArbLO).  
 
 
